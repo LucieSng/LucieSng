@@ -4,7 +4,7 @@
 
 💻 J'apprends actuellement le développement.
 
-## 🛠️🤝 Compétences 
+## 🛠️ Compétences 
 <table><tr>
 <td>
 <h3>🛠️ Outils</h3>
@@ -24,7 +24,16 @@
   <li>UX et UI design</li>
   <li>Design system & design tokens</li>
   <li>Accessibilité numérique</li>
-    <li>Développement front</li>
+  <li>Développement front</li>
+</ul>
+</td>
+  <td>
+<h3>🤝 Soft skills</h3>
+<ul>
+<li>Empathie</li>
+  <li>Résolution de problèmes</li>
+  <li>Curiosité</li>
+  <li>Travail d'équipe</li>
 </ul>
 </td>
 </tr></table>
